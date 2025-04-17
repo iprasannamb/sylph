@@ -13,7 +13,7 @@
 
 It creates a **shadow profile** — a private, evolving reflection of your authentic self.
 
----
+--
 
 ## Key Features
 
@@ -28,8 +28,8 @@ It creates a **shadow profile** — a private, evolving reflection of your authe
 
 - **Encrypted, Ephemeral Workspace**
   A creation space that vanishes if you try to publish of capture it.
----
 
+---
 ## Privacy First
 
 - Everything is **stored locally** — nothing is uploaded.  
