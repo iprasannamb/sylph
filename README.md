@@ -28,7 +28,6 @@ It creates a **shadow profile** — a private, evolving reflection of your authe
 
 - **Encrypted, Ephemeral Workspace**
   A creation space that vanishes if you try to publish of capture it.
-  Desgined for pure thought-- free from metrics and validation.
 ---
 
 ## Privacy First
