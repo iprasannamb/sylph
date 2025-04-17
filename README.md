@@ -17,15 +17,18 @@ It creates a **shadow profile** — a private, evolving reflection of your authe
 
 ## Key Features
 
-- **sylph.x**  
+- **Sylph.x**  
   A private stream of your ghost data: erased text, hovered topics, and forgotten trails.
 
-- **sylph.e**  
+- **Sylph.e**  
   Shows the gap between your public digital persona and your hidden interests.
 
-- **sylph.decay**  
+- **Sylph.decay**  
   The OS organically degrades unused files and UI based on subconscious emotional trends.
 
+- **Encrypted, Ephemeral Workspace**
+  A creation space that vanishes if you try to publish of capture it.
+  Desgined for pure thought-- free from metrics and validation.
 ---
 
 ## Privacy First
@@ -38,5 +41,5 @@ It creates a **shadow profile** — a private, evolving reflection of your authe
 
 ## Credits
 
-Crafted with vision and a bit of mystery by [Prasanna](https://github.com/iprasannamb) .
+Crafted with vision and a bit of mystery by [Prasanna](https://github.com/iprasannamb) and [Nihaal](https://github.com/NihaalNO).
 
